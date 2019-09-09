@@ -30,8 +30,8 @@
  
 
 .activeCard {
-  color: red;
-  background: pink;
+  color: rgb(0, 119, 255);
+  background: rgb(217, 255, 0);
  }
 
 .App-link {
